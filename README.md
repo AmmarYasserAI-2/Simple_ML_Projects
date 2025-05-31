@@ -13,7 +13,7 @@ This is where I build and upload **mini-projects** to practice **new algorithms*
 Whenever I learn a new algorithm, I try to apply it to a small real-world problem using real datasets (or toy ones).  
 Each folder here is basically like a “learning checkpoint.”
 
-Some concepts covered:
+Some concepts covered (Or Less idk, it depends on what time you see this repo):
 
 - 📈 Simple Linear Regression
 - 📊 Logistic Regression
